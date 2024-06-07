@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import WA from "@/app/assets/WA.png";
-import Linked from "@/app/assets/linkedin2.png";
+import Linked from "@/app/assets/LinkedIn2.png";
 import email from "@/app/assets/email3.png";
 
 const page = () => {
@@ -67,10 +67,10 @@ const page = () => {
             </a>
           </div>
           <div className="location w-full mt-10 grid grid-cols-1 gap-3 md:grid-cols-2 ">
-            {/* <iframe
+             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.087890155221!2d106.80821168930206!3d-6.382656731142835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e952d106ab99%3A0x9674822ff1f3928f!2sGg.%20Barokah%2C%20Tanah%20Baru%2C%20Kecamatan%20Beji%2C%20Kota%20Depok%2C%20Jawa%20Barat%2016426!5e0!3m2!1sid!2sid!4v1682956902374!5m2!1sid!2sid"
               className="justify-center items-center m-auto w-full"
-            ></iframe> */}
+            ></iframe>
             <h1>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias
               aliquid voluptates iure natus fugit. Blanditiis quis qui esse
